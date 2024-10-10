@@ -26,3 +26,4 @@ jobs:
         docker push ${{ secrets.DOCKER_HUB_ACCOUNT }}/app1-api:latest
         docker push ${{ secrets.DOCKER_HUB_ACCOUNT }}/app1-frontend:latest
 
+
